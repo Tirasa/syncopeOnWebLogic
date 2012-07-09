@@ -32,7 +32,7 @@ under the License.
     <syncope.version>1.0.0-incubating-SNAPSHOT</syncope.version>
   </properties>
 
-  <name>Apache Syncope sample project</name>
+  <name>Apache Syncope on Oracle WebLogic</name>
   <groupId>net.tirasa.syncope</groupId>
   <artifactId>weblogic</artifactId>
   <version>1.0-SNAPSHOT</version>
