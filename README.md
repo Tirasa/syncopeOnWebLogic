@@ -1,4 +1,4 @@
-Apache Syncope overlay to be run in Oracle WebLogic.
+Apache Syncope overlay to be run in Oracle WebLogic.<br/>
 Practical implementation of official advices at Syncope [wiki](https://cwiki.apache.org/confluence/display/SYNCOPE/Run+Syncope+in+real+environments).
 
 ## How to test ##
