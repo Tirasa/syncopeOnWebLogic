@@ -33,5 +33,10 @@ under the License.
       <package-name>net.sf.cglib.*</package-name>
     </prefer-application-packages>
   </container-descriptor>
+  
+  <resource-description>
+    <jndi-name>syncopeDataSource</jndi-name>
+    <res-ref-name>jdbc/syncopeDataSource</res-ref-name>
+  </resource-description>
 
 </weblogic-web-app>
