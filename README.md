@@ -24,7 +24,7 @@ $ mvn clean package
 #### deploy ####
 
  1. <code>core/target/syncope.war</code>
- 1. <code>console>console/target/syncope-console.war</code>
+ 1. <code>console/target/syncope-console.war</code>
 
 ## Notes ##
  1. Currently on 1.0.0-incubating-SNAPSHOT, waiting for upcoming 1.0.0-incubating release.
