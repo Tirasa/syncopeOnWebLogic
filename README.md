@@ -30,5 +30,5 @@ $ mvn clean package
  1. Currently on 1.0.0-incubating-SNAPSHOT, waiting for upcoming 1.0.0-incubating release.
  1. Not listenig on 7001? Just put the correct port in <code>console/src/main/resources/configuration.properties</code>, re-build and re-deploy
 
-## Needs more info? ##
+## Need more info? ##
 Just drop an [e-mail](mailto:syncope@tirasa.net).
