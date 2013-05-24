@@ -27,7 +27,7 @@ $ mvn clean package
  1. <code>console/target/syncope-console.war</code>
 
 ## Notes ##
- 1. Currently on 1.0.0-incubating-SNAPSHOT, waiting for upcoming 1.0.0-incubating release.
+ 1. Currently on 1.0.8
  1. Not listenig on 7001? Just put the correct port in <code>console/src/main/resources/configuration.properties</code>, re-build and re-deploy
 
 ## Need more info? ##
